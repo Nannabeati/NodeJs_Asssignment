@@ -1,0 +1,9 @@
+####
+
+POST http://localhost:3000/addCustomer/ 
+Content-Type: application/json
+
+{
+    "name": "angai",
+    "email": "anjalli11@gmail.com"
+}
